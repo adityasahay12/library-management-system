@@ -30,6 +30,10 @@ src/
 2. Open project in IDE (IntelliJ / Eclipse)
 3. Run main class
 
+## 💡 Key Concepts Used
+- Object-Oriented Programming (Encapsulation, Inheritance)
+- Data management using collections
+- Modular code design
 ## 📌 Future Improvements
 - Database integration (MySQL)
 - GUI interface
